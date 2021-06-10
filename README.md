@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+我是 [searchpcc](https://searchpcc.com)，欢迎你访问我的主页，你可以通过我的 [Blog](https://searchpcc.com) 更加深入的了解我的 生活、工作和学习。
+
+目前供职于一家营销技术公司负责 ToB 的产品和技术以及对应的管理工作。
